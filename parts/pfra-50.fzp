@@ -18,22 +18,22 @@
     </properties>
     <views>
         <iconView>
-            <layers image="svg/icon/pfra-50.svg">
+            <layers image="icon/fuse-pfra.svg">
                 <layer layerId="icon" />
             </layers>
         </iconView>
         <breadboardView fliphorizontal="true" flipvertical="true">
-            <layers image="svg/icon/pfra-50.svg">
+            <layers image="icon/fuse-pfra.svg">
                 <layer layerId="breadboard" />
             </layers>
         </breadboardView>
         <schematicView>
-            <layers image="svg/schematic/fuse.svg">
+            <layers image="schematic/fuse.svg">
                 <layer layerId="schematic" />
             </layers>
         </schematicView>
         <pcbView>
-            <layers image="svg/pcb/fuse-pfra-50.svg">
+            <layers image="pcb/fuse-pfra-50.svg">
                 <layer layerId="copper0" />
                 <layer layerId="copper1" />
                 <layer layerId="silkscreen" />
