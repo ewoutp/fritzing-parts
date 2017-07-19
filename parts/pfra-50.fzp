@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module moduleId="pfra-50-1BAACB3E-DD69-44C9-B935-8A7429BF07C0" fritzingVersion="0.9.3">
+    <author>Ewout Prangsma</author>
+    <version>1</version>
+    <title>Resettable fuse - PFRA 50</title>
+    <url></url>
+    <label>Fuse</label>
+    <date>2017-07-19</date>
+    <description>Resettable fuse 0.5A</description>
+    <tags>
+        <tag>Fuse</tag>
+        <tag>Resettable fuse</tag>
+        <tag>PFRA</tag>
+    </tags>
+    <properties>
+        <property name="family">Fuse</property>
+        <property name="type">Resettable fuse</property>
+    </properties>
+    <views>
+        <iconView>
+            <layers image="svg/icon/pfra-50.svg">
+                <layer layerId="icon" />
+            </layers>
+        </iconView>
+        <breadboardView fliphorizontal="true" flipvertical="true">
+            <layers image="svg/icon/pfra-50.svg">
+                <layer layerId="breadboard" />
+            </layers>
+        </breadboardView>
+        <schematicView>
+            <layers image="svg/schematic/fuse.svg">
+                <layer layerId="schematic" />
+            </layers>
+        </schematicView>
+        <pcbView>
+            <layers image="svg/pcb/fuse-pfra-50.svg">
+                <layer layerId="copper0" />
+                <layer layerId="copper1" />
+                <layer layerId="silkscreen" />
+            </layers>
+        </pcbView>
+    </views>
+    <connectors>
+        <connector type="male" id="connector0" name="A">
+            <description>side a</description>
+            <views>
+                <breadboardView>
+                    <p svgId="connector0pin" layer="breadboard" terminalId="connector0terminal" />
+                </breadboardView>
+                <schematicView>
+                    <p svgId="connector0pin" layer="schematic" terminalId="connector0terminal" />
+                </schematicView>
+                <pcbView>
+                    <p svgId="connector0pad" layer="copper0" />
+                    <p svgId="connector0pad" layer="copper1" />
+                </pcbView>
+            </views>
+        </connector>
+        <connector type="male" id="connector1" name="B">
+            <description>side b</description>
+            <views>
+                <breadboardView>
+                    <p svgId="connector1pin" layer="breadboard" terminalId="connector1terminal" />
+                </breadboardView>
+                <schematicView>
+                    <p svgId="connector1pin" layer="schematic" terminalId="connector1terminal" />
+                </schematicView>
+                <pcbView>
+                    <p svgId="connector1pad" layer="copper0" />
+                    <p svgId="connector1pad" layer="copper1" />
+                </pcbView>
+            </views>
+        </connector>
+    </connectors>
+</module>
