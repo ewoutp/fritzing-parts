@@ -280,130 +280,130 @@
            x="-505.79349"
            id="tspan4378"
            sodipodi:role="line">RFM69HCW</tspan></text>
-      <path
+      <!-- path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path4225"
          d="m 90.187398,457.9981 0,-1.458 58.173222,3.8e-4 0,1.45762"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" / -->
+      <!-- path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="path4225-1"
          d="m 90.1874,513.60965 0,1.458 58.17322,-3.8e-4 0,-1.45762"
-         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" / -->
     </g>
     <g
        id="copper1"
        transform="translate(-1.5944856,5.6189555)">
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223"
+         id="connector9pin"
          width="10.629921"
          height="4.9606299"
          x="87.029915"
          y="459.93774" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-8"
+         id="connector8pin"
          width="10.629921"
          height="4.9606299"
          x="87.029915"
          y="452.8511" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-5"
+         id="connector10pin"
          width="10.629921"
          height="4.9606299"
          x="87.029915"
          y="467.02435" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-52"
+         id="connector11pin"
          width="10.629921"
          height="4.9606299"
          x="87.029915"
          y="474.11096" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-9"
+         id="connector12pin"
          width="10.629921"
          height="4.9606299"
          x="87.029915"
          y="481.19757" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-4"
+         id="connector13pin"
          width="10.629921"
          height="4.9606299"
          x="87.029915"
          y="488.31961" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-97"
+         id="connector14pin"
          width="10.629921"
          height="4.9606299"
          x="87.029915"
          y="495.37079" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-56"
+         id="connector15pin"
          width="10.629921"
          height="4.9606299"
          x="87.029915"
          y="502.45743" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-50"
+         id="connector6pin"
          width="10.629921"
          height="4.9606299"
          x="143.72282"
          y="459.93774" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-8-5"
+         id="connector7pin"
          width="10.629921"
          height="4.9606299"
          x="143.72282"
          y="452.8511" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-5-2"
+         id="connector5pin"
          width="10.629921"
          height="4.9606299"
          x="143.72282"
          y="467.02435" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-52-5"
+         id="connector4pin"
          width="10.629921"
          height="4.9606299"
          x="143.72282"
          y="474.11096" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-9-4"
+         id="connector3pin"
          width="10.629921"
          height="4.9606299"
          x="143.72282"
          y="481.19757" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-4-6"
+         id="connector2pin"
          width="10.629921"
          height="4.9606299"
          x="143.72282"
          y="488.31961" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-97-7"
+         id="connector1pin"
          width="10.629921"
          height="4.9606299"
          x="143.72282"
          y="495.37079" />
       <rect
          style="opacity:1;fill:#f7bd13;fill-opacity:1;stroke:none;stroke-width:1.08000004;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect4223-56-5"
+         id="connector0pin"
          width="10.629921"
          height="4.9606299"
          x="143.72282"
