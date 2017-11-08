@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module fritzingVersion="0.9.0b" referenceFile="RFM12b_HopeRF_Transceiver_fix.fzp" moduleId="rfm69hcw_334af668c9fd7a01f6586d1d03f3c187_1">
+ <version>4</version>
+ <author>Tim Berger</author>
+ <title>RFM69HCW ISM Transciever</title>
+ <label>RFM69</label>
+ <date>Sa Mai 21 2016</date>
+ <tags>
+  <tag>ISM Transceiver</tag>
+  <tag>HopeRF</tag>
+  <tag>rfm69</tag>
+ </tags>
+ <properties>
+  <property name="family">RFM69 ISM Transceiver</property>
+  <property name="variant">HCW v2.0</property>
+  <property name="pins">16</property>
+  <property name="part number"></property>
+  <property name="layer"></property>
+ </properties>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:8pt;">RF Transceiver by Hope RF.  Well supported Arduino libraries are available. This ISM band transceiver is available in several frequencies e.g. 433MHz and 915MHz and it is also available in various feature versions.&lt;/span>&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/rfm69hcw_v2-0.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/rfm69hcw_v2-0.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/rfm69hcw_v2-0.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/rfm69hcw_v2-0.svg">
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector id="connector3" name="4 SCK" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector3pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector3pin" layer="schematic" terminalId="connector3terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector3pin" layer="copper1" terminalId="connector3terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector4" name="5 MISO" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector4pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector4pin" layer="schematic" terminalId="connector4terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector4pin" layer="copper1" terminalId="connector4terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector5" name="6 MOSI" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector5pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector5pin" layer="schematic" terminalId="connector5terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector5pin" layer="copper1" terminalId="connector5terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector6" name="7 NSS" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector6pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector6pin" layer="schematic" terminalId="connector6terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector6pin" layer="copper1" terminalId="connector6terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector7" name="8 NC" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector7pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector7pin" layer="schematic" terminalId="connector7terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector7pin" layer="copper1" terminalId="connector7terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector8" name="9 RESET" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector8pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector8pin" layer="schematic" terminalId="connector8terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector8pin" layer="copper1" terminalId="connector8terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector9" name="10 DIO0" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector9pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector9pin" layer="schematic" terminalId="connector9terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector9pin" layer="copper1" terminalId="connector9terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector10" name="11 DIO1" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector10pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector10erminal" layer="schematic" terminalId="connector10terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector10pin" layer="copper1" terminalId="connector10terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector11" name="12 DIO2" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector11pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector11pin" layer="schematic" terminalId="connector11terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector11pin" layer="copper1" terminalId="connector11terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector12" name="13 DIO3" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector12pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector12pin" layer="schematic" terminalId="connector12terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector12pin" layer="copper1" terminalId="connector12terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector0" name="1 GND" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector0" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector0pin" layer="schematic" terminalId="connector0terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector0pin" layer="copper1" terminalId="connector0terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector13" name="14 DIO4" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector13pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector13pin" layer="schematic" terminalId="connector13terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector13pin" layer="copper1" terminalId="connector13terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector1" name="2 ANT" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector1pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector1pin" layer="schematic" terminalId="connector1terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector1pin" layer="copper1" terminalId="connector1terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector2" name="3 GND" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector2pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector2pin" layer="schematic" terminalId="connector2terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector2pin" layer="copper1" terminalId="connector2terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector15" name="15 DIO5" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector15pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector15pin" layer="schematic" terminalId="connector15terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector15pin" layer="copper1" terminalId="connector15terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector16" name="16 3.3V" type="pad">
+   <description></description>
+   <views>
+    <breadboardView>
+     <p svgId="connector16pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector16pin" layer="schematic" terminalId="connector16terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector16pin" layer="copper1" terminalId="connector16terminal"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url>http://www.hoperf.com/rf_transceiver/modules/RFM69HCW.html</url>
+</module>
