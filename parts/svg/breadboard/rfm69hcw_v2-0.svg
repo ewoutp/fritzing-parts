@@ -114,7 +114,7 @@
     <g
        id="g5729">
       <g
-         id="g5706">
+         id="connector15pin">
         <rect
            style="opacity:1;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect4191-6-9-0"
@@ -159,56 +159,56 @@
          height="100%"
          width="100%"
          transform="translate(-3.3643975e-6,-7.0866188)"
-         id="use5713"
-         xlink:href="#g5706"
+         id="connector14pin"
+         xlink:href="#connector15pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-14.173233)"
-         id="use5717"
-         xlink:href="#g5706"
+         id="connector13pin"
+         xlink:href="#connector15pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-21.259847)"
-         id="use5719"
-         xlink:href="#g5706"
+         id="connector12pin"
+         xlink:href="#connector15pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-28.346461)"
-         id="use5721"
-         xlink:href="#g5706"
+         id="connector11pin"
+         xlink:href="#connector15pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-35.433075)"
-         id="use5723"
-         xlink:href="#g5706"
+         id="connector10pin"
+         xlink:href="#connector15pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-42.51969)"
-         id="use5725"
-         xlink:href="#g5706"
+         id="connector9pin"
+         xlink:href="#connector15pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-49.606304)"
-         id="use5727"
-         xlink:href="#g5706"
+         id="connector8pin"
+         xlink:href="#connector15pin"
          y="0"
          x="0" />
     </g>
@@ -216,7 +216,7 @@
        transform="matrix(-1,0,0,1,235.27556,-4.5885678e-6)"
        id="g5729-7">
       <g
-         id="g5706-8">
+         id="connector0pin">
         <rect
            style="opacity:1;fill:#9a916c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            id="rect4191-6-9-0-7"
@@ -261,56 +261,56 @@
          height="100%"
          width="100%"
          transform="translate(-3.3643975e-6,-7.0866188)"
-         id="use5713-8"
-         xlink:href="#g5706-8"
+         id="connector1pin"
+         xlink:href="#connector0pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-14.173233)"
-         id="use5717-8"
-         xlink:href="#g5706-8"
+         id="connector2pin"
+         xlink:href="#connector0pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-21.259847)"
-         id="use5719-4"
-         xlink:href="#g5706-8"
+         id="connector3pin"
+         xlink:href="#connector0pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-28.346461)"
-         id="use5721-6"
-         xlink:href="#g5706-8"
+         id="connector4pin"
+         xlink:href="#connector0pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-35.433075)"
-         id="use5723-5"
-         xlink:href="#g5706-8"
+         id="connector5pin"
+         xlink:href="#connector0pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-42.51969)"
-         id="use5725-0"
-         xlink:href="#g5706-8"
+         id="connector6pin"
+         xlink:href="#connector0pin"
          y="0"
          x="0" />
       <use
          height="100%"
          width="100%"
          transform="translate(0,-49.606304)"
-         id="use5727-7"
-         xlink:href="#g5706-8"
+         id="connector7pin"
+         xlink:href="#connector0pin"
          y="0"
          x="0" />
     </g>

@@ -50,7 +50,7 @@ p, li { white-space: pre-wrap; }
    <description></description>
    <views>
     <breadboardView>
-     <p svgId="connector0" layer="breadboard"/>
+     <p svgId="connector0pin" layer="breadboard"/>
     </breadboardView>
     <schematicView>
      <p svgId="connector0terminal" layer="schematic" terminalId="connector0terminal"/>
